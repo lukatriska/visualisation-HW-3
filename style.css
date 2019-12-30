@@ -1,0 +1,28 @@
+body {
+  background-color: #F3F7F7;
+  font-family: "Ubuntu Mono", serif;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.main-container {
+  width: auto;
+  height: 600px;
+}
+
+.chart {
+  margin: auto;
+}
+
+.heading-text {
+  text-align: center;
+  margin: 20px 150px 20px 150px;
+}
+
+canvas {
+  /*width: 1200px !important;*/
+  /*height: 600px !important;*/
+
+}
